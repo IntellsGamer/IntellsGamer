@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IntellsGamer
 - 👀 I’m interested in Hacking, Programming, etc.
-- 🌱 I’m currently learning Python and dJango.
-- 📫 How to reach me: No way rn.
+- 🌱 I’m currently learning Java.
+- 📫 How to reach me: No way atm.
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: Hacked a school PC and destroyed it without anybody noticing.
 
