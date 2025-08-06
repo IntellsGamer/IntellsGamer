@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: No way atm.
 - 😄 Pronouns: He / Him.
-- ⚡ Fun fact: Hacked a school PC and destroyed it without anybody noticing.
+- ⚡ Fun fact: I'm your dad.
 
 <!---
 IntellsGamer/IntellsGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
